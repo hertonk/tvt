@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "name": "RF02",
+      "group": 1
+    },
+    {
+      "name": "RF03",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "value": 1
+    }
+  ]
+}

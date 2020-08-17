@@ -1,0 +1,49 @@
+[
+  {
+    "name": "RF01",
+    "children": [
+      {
+        "name": "RF02",
+        "children": [
+          {
+            "name": "RF10",
+            "children": [
+              {
+                "name": "RF15",
+                "children": [
+                  {
+                    "name": "MDL01", "colour": "#f9f0ab"
+                  },
+                  {
+                    "name": "MDL02", "colour": "#e8e596"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "RF05",
+        "children": [
+          {
+            "name": "RF03",
+            "children": [
+              {
+                "name": "RF12",
+                "children": [
+                  {
+                    "name": "HST01", "colour": "#f9f0ab"
+                  },
+                  {
+                    "name": "HST02", "colour": "#e8e596"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }     
+    ]
+  }
+]
